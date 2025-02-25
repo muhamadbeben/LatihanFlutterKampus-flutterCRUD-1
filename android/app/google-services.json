@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "37648749177",
+    "firebase_url": "https://global-jumat-a1af3-default-rtdb.firebaseio.com",
+    "project_id": "global-jumat-a1af3",
+    "storage_bucket": "global-jumat-a1af3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37648749177:android:bc057bff6e1cec2902faa8",
+        "android_client_info": {
+          "package_name": "com.global.tugas1.flutter2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPzNxTZS0kjdE0s0VDUKdH3hlxDRW1VfY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
