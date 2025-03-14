@@ -1,0 +1,2 @@
+D:/LatihanFlutterKampus-flutterCRUD/android/app/.cxx/Debug/1s6m731j/x86/CMakeFiles/edit_cache.dir
+D:/LatihanFlutterKampus-flutterCRUD/android/app/.cxx/Debug/1s6m731j/x86/CMakeFiles/rebuild_cache.dir
